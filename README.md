@@ -31,7 +31,6 @@ expo eject
 | --- | --- |
 |![HomeScreen](./Images/HomeScreen.png)|![LoginScreen](./Images/LoginScreen.png)|
 | Dashboard | Menu |
-|  |  |
 |![List](./Images/List.png)|![SideMenu](./Images/SideMenu.png) |
 
 
