@@ -35,5 +35,6 @@ expo eject
 
 
 ## How to use?
-You need to login with your Deepser credentials where url is your deepser host.
+You need to login with your Deepser credentials. Url is your Deepser host.
+The app is open source and fully customizable.
 
